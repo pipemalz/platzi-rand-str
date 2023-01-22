@@ -1,0 +1,24 @@
+{
+  "name": "platzi-rand-str",
+  "version": "1.0.0",
+  "description": "Random string  messages curso npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipemalz/platzi-rand-str.git"
+  },
+  "keywords": [],
+  "author": "Felipe Moreno <sinister012@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pipemalz/platzi-rand-str/issues"
+  },
+  "homepage": "https://github.com/pipemalz/platzi-rand-str#readme",
+  "bin": {
+    "platzi-rand-str" : "bin/global.js"
+  },
+  "preferGlobal": true
+}
