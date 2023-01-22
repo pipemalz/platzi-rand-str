@@ -5,18 +5,18 @@ Whenever I start a new project, I don't know what to write for the first commit.
 ## Install
 
 ```npm
-npm install -g random-str-msg
+npm install -g platzi-rand-str
 ```
 
 # Usage
 
 ```bash
- random-str-msg
+ platzi-rand-str
 ```
 
 # Contributing
 
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-str-msg](https://github.com/gndx/random-str-msg)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-str-msg](https://github.com/pipemalz/platzi-rand-str)
 
 # License
 
